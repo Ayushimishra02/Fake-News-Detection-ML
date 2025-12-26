@@ -33,5 +33,5 @@ The system processes raw text through a multi-stage pipeline designed for high-s
 
 ### 🚀 How to Run
 1. Clone this repository: `git clone https://github.com/Ayushimishra02/Fake-News-Detection-ML.git`
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install wordcloud`
 3. Launch Jupyter Notebook and run `Fake_News_Detection.ipynb`.
